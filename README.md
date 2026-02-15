@@ -7,6 +7,11 @@ The dataset extends the TIHAN-IITH Autonomous Navigation framework by introducin
 
 ---
 
+<p align="center">
+  <img src="assets/swir_vehicle.png" width="700"><br>
+  <b>SWIR Camera</b>
+</p>
+
 ## 🚗 Highlights
 
 - First large-scale SWIR autonomous driving dataset from India  
