@@ -82,9 +82,7 @@ The distribution naturally follows a **long-tail**, reflecting real traffic.
 ---
 
 ## 🗂 Directory Structure
-
-'''
-
+---
 TIAND-SWIR/
 ├── images/
 │ ├── train
@@ -95,9 +93,9 @@ TIAND-SWIR/
 │ ├── val
 │ └── test
 └── data.yaml
-'''
 
 
+---
 
 ---
 
@@ -106,9 +104,6 @@ TIAND-SWIR/
 YOLO style:
 <class_id> <x_center> <y_center> <width> <height>
 
-
-
-Values are normalized.
 
 ---
 
