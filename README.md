@@ -82,20 +82,19 @@ The distribution naturally follows a **long-tail**, reflecting real traffic.
 ---
 
 ## 🗂 Directory Structure
----
+
+```
 TIAND-SWIR/
 ├── images/
-│ ├── train
-│ ├── val
-│ └── test
+│   ├── train/
+│   ├── val/
+│   └── test/
 ├── labels/
-│ ├── train
-│ ├── val
-│ └── test
+│   ├── train/
+│   ├── val/
+│   └── test/
 └── data.yaml
-
-
----
+```
 
 ---
 
