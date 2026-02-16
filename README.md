@@ -12,6 +12,14 @@ The dataset extends the TIHAN-IITH Autonomous Navigation framework by introducin
   <p><b>SWIR Camera</b></p>
 </div>
 
+## 📂 TiAND Dataset (TiHAN – IIT Hyderabad)
+
+The datasets are provided by **TiHAN – Technology Innovation Hub on Autonomous Navigation, IIT Hyderabad**.
+
+🔗 **Official dataset portal:** https://tihan.iith.ac.in/TiAND.html
+
+
+
 ## 🚗 Highlights
 
 - First large-scale SWIR autonomous driving dataset from India  
